@@ -1,6 +1,6 @@
 # Image-filtering
 
-Desktop application created to place filters on any choosen image (high pass- low pass- median - laplacian) and
+GUI created to place filters on any choosen image  (grayscale and RGB) (high pass- low pass- median - laplacian) and
 create histogram equalization of that image as well as the applied histogram 
 
 ## first you choose your image
